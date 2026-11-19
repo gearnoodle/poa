@@ -1,6 +1,6 @@
 ---
 version: 1
-name: Your Name
+name: Gearnoodle
 ---
 ## Posts
 - [Welcome to your Poa](welcome.md)
