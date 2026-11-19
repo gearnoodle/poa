@@ -1,36 +1,11 @@
 ---
-title: Welcome to your Poa
+title: Welcome to Poa
+date: 2026-11-19
 ---
-Your Poa is live. Here's how to make it yours. Everything happens on your repository's page on GitHub.
+Poa is a small personal site made of Markdown files. There are no accounts, no algorithm and no central server: just your own posts, on a site you control.
 
-## 1. Put your name in
+Every Poa also lists the Poas its owner reads. That list is how people find each other. Open someone's Poa and you see who *they* read, and you can hop from list to list, like the webrings of the old web. On the left you can see the Poas this one reads, and the search box looks through everything reachable from here.
 
-Open `poa.md`, press the pencil icon to edit, change `Your Name` to your name, and press **Commit changes**.
+A Poa can live on GitHub Pages, Codeberg Pages or your own web host. If its host goes offline, its posts simply disappear until it's back.
 
-## 2. Write your first post
-
-Press **Add file → Create new file** and name it with today's date, for example `2026-11-20-first-post.md`. Start it like this:
-
-```
----
-title: My first post
-date: 2026-11-20
----
-Write here. **Markdown** works.
-```
-
-Then add a line for it at the top of the Posts list in `poa.md`:
-
-```
-- [My first post](2026-11-20-first-post.md)
-```
-
-## 3. Add Poas you read
-
-Under "Poas I read" in `poa.md`, add the addresses of other Poas, one per line, like `marta.github.io/poa`. One is already there so you have somewhere to start hopping from.
-
-## 4. Remove this post
-
-When you're done, delete `welcome.md` and its line in `poa.md`.
-
-Your address is `<your-username>.github.io/poa`. Give it to people so they can add you to their lists.
+**Want your own?** Start from the template: [github.com/gearnoodle/poa-template](https://github.com/gearnoodle/poa-template).

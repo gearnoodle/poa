@@ -1,10 +1,9 @@
 ---
 version: 1
-name: Manu Järvinen
+name: Poa
 ---
 ## Posts
-- [Hello, Poa](2026-11-19-hello.md)
+- [Welcome to Poa](welcome.md)
 
 ## Poas I read
 - manujarvinen.github.io/poa
-- colemaek.github.io/poa
