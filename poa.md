@@ -1,10 +1,8 @@
 ---
 version: 1
-name: Gearnoodle
+name: Manu Järvinen
 ---
 ## Posts
-- [Welcome to your Poa](welcome.md)
+- [Hello, Poa](2026-11-19-hello.md)
 
 ## Poas I read
-- manujarvinen.github.io/poa
-- colemaek.github.io/poa
