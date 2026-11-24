@@ -1,6 +1,7 @@
 ---
 version: 1
 name: Poa
+category: stuff
 ---
 ## Posts
 - [Welcome to Poa](welcome.md)
